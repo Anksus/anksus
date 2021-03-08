@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 
+[![Anksus's github stats](https://github-readme-stats.vercel.app/api?username=Anksus&theme=grey-white)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ![](https://komarev.com/ghpvc/?username=anksus)
