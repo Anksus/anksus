@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - ![](https://komarev.com/ghpvc/?username=anksus)
+[![Anksus's github stats](https://github-readme-stats.vercel.app/api?username=Anksus&theme=grey-white)](https://github.com/anuraghazra/github-readme-stats)
+
 --> 
 
-[![Anksus's github stats](https://github-readme-stats.vercel.app/api?username=Anksus&theme=grey-white)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
